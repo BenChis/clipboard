@@ -162,18 +162,12 @@ aside {
 .btn1:focus,
 .btn1:hover{
     cursor:pointer;
-    -webkit-box-shadow: 0px 7px 14px 0px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow:    0px 7px 14px 0px rgba(0, 0, 0, 0.2);
-    box-shadow:         0px 7px 14px 0px rgba(0, 0, 0, 0.2);
     opacity: 0.8;
 }
 
 .btn2:focus,
 .btn2:hover{
     cursor:pointer;
-    -webkit-box-shadow: 0px 7px 14px 0px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow:    0px 7px 14px 0px rgba(0, 0, 0, 0.2);
-    box-shadow:         0px 7px 14px 0px rgba(0, 0, 0, 0.2);
     opacity: 0.8;
 }
 
